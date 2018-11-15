@@ -8,7 +8,7 @@ html, body {
     height: 100%;
     margin: auto;
     padding: 0;
-    font-family: 'Aileron Thin';
+    font-family: 'Aileron Thin', 'Source Sans Pro', sans-serif;
 }
 
 section {
